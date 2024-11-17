@@ -26,7 +26,7 @@ If you encounter any issues or have questions, feel free to contact us at it@rea
 
 ## Contributing
 
-We welcome contributions to improve RealAI! Visit our [Contributing Guide](https://www.realai.com/contribute) 
+We welcome contributions to improve RealAI! Visit our [Contributing Guide](https://github.com/RealAISwe/real-ai-sdk/blob/main/CONTRIBUTING.md) 
 
 ## License
 
