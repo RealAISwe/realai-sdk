@@ -11,7 +11,7 @@ pip install realai
 ```
 ## Documentation and Wiki
 
-For comprehensive details about the models, features, and usage examples, visit the official [RealAI Wiki](https://www.realai.com/wiki) (replace with the actual link).
+For comprehensive details about the models, features, and usage examples, visit the official [RealAI Wiki](https://github.com/RealAISwe/realai-sdk/wiki) (replace with the actual link).
 
 ## Getting Started Example
 
@@ -26,8 +26,8 @@ If you encounter any issues or have questions, feel free to contact us at it@rea
 
 ## Contributing
 
-We welcome contributions to improve RealAI! Visit our [Contributing Guide](https://github.com/RealAISwe/real-ai-sdk/blob/main/CONTRIBUTING.md) 
+We welcome contributions to improve RealAI! Visit our [Contributing Guide](https://github.com/RealAISwe/realai-sdk/blob/main/CONTRIBUTING.md) 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/RealAISwe/real-ai-sdk/blob/main/LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/RealAISwe/realai-sdk/blob/main/LICENSE) file for more information.
