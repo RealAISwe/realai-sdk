@@ -69,3 +69,15 @@ class Client:
                     f"Response:{response.json()}")
 
         return response.json()
+
+    def residential_registry(self, params: dict):
+        url = self.server_url + "/v1/data/realai/residential-registry"
+
+        headers = {
+            'Accept': 'application/json',
+            'Authorization': 'Bearer ' + self.access_token
+        }
+
+        response = requests.request("GET", url, headers=headers, params=params)
+
+        return response.json()
