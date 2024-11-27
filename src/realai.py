@@ -43,7 +43,9 @@ class Client:
         self.access_token = json_response['access_token']
         self.refresh_token = json_response['refresh_token']
 
-    def avm(self, input_features={}, raise_exception_on_fail=True):
+    def avm(self, input_features=None, raise_exception_on_fail=True):
+        if input_features is None:
+            input_features = {}
         provider = "realai"
         model_name = "avm"
         model_type = "normal"
@@ -70,7 +72,9 @@ class Client:
 
         return response.json()
 
-    def residential_registry(self, params: dict):
+    def residential_registry(self, params=None):
+        if params is None:
+            params = {}
         url = self.server_url + "/v1/data/realai/residential-registry"
 
         headers = {
