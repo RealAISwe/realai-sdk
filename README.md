@@ -11,7 +11,7 @@ pip install realai
 ```
 ## Documentation and Wiki
 
-For comprehensive details about the models, features, and usage examples, visit the official [RealAI Wiki](https://github.com/RealAISwe/realai-sdk/wiki) (replace with the actual link).
+For comprehensive details about the models, features, and usage examples, visit the official [RealAI Wiki](https://github.com/RealAISwe/realai-sdk/wiki).
 
 ## Getting Started Example
 
